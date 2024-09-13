@@ -51,7 +51,7 @@ mod test{
         let output = child.wait_with_output().expect("Failed to read stdout");
 
         let stdout = String::from_utf8_lossy(&output.stdout);
-        assert!(stdout.contains("L: 2"));  // Check if output contains the expected result
+        assert!(stdout.contains("\'L\' 2"));  // Check if output contains the expected result
     }
 }
 

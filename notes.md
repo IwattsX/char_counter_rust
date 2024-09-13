@@ -1,6 +1,6 @@
 Write a program where a user inputs a string and the application prints the character that occurs most often.
 
-hello > l 2
+hello > L 2
 
 # Procedure
 
@@ -9,3 +9,8 @@ hello > l 2
    - add a counter for each character
 3. find character with highest counter
 4. print character
+
+# REQUIREMENTS
+- [x] A readme file containing instructions on how to run your application
+- [x] Documentation on all functions
+- [x] At least 2 test cases

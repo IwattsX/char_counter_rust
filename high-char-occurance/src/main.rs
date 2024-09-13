@@ -23,7 +23,7 @@ fn main() {
             char_res = key;
         }
     }
-
-    println!("{}: {}",char_res, max);
+    // example output: 'L' 2
+    println!("\'{}\' {}",char_res, max);
 }
 
