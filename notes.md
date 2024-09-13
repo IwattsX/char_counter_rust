@@ -1,6 +1,10 @@
 Write a program where a user inputs a string and the application prints the character that occurs most often.
 
-hello > L 2
+Example:
+```
+Enter a string:hello
+'L' 2
+```
 
 # Procedure
 
